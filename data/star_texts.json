@@ -2,115 +2,135 @@
   "Liêm Trinh": {
     "base": "là gì, cần update nè",
     "hoa": {
-      "Hóa Lộc": "",
-      "Hóa Kỵ": "Tình cảm trắc trở"
+      "Hóa Lộc": "lộc đến từ kỷ luật, giới luật, phẩm chất và việc giữ chuẩn mực; càng bền bỉ gìn giữ giá trị càng dễ sinh phúc lộc.",
+      "Hóa Kỵ": "Tình cảm trắc trở. Liêm Trinh Hóa Kỵ: bài học về dục vọng/kỷ luật bản thân; cần điều tiết cảm xúc và tránh tự trói bởi giới hạn do mình dựng."
     }
   },
   "Phá Quân": {
     "base": "Phá ra, là sự đổi, là DO, làm việc, cứ hóa lộc hóa quyền là có sự thay đổi rồi",
     "hoa": {
-      "Hóa Lộc": "",
-      "Hóa Quyền": ""
+      "Hóa Lộc": "Phá Quân Hóa Lộc: lộc từ phá cách/cách mạng; càng dám đổi mới càng dễ gặp vận may.",
+      "Hóa Quyền": "quyền đến từ đột phá/cải cách; mạnh khi dấn thân đổi mới, nhưng cần kiểm soát “sức phá” để tránh phản tác dụng."
     }
   },
   "Vũ Khúc": {
     "base": "Chủ về tiền bạc, về kim loại, về nghề nghiệp liên quan đến kim loại. Về sự chủ động, là sự quản lý tài chính",
     "hoa": {
-      "Hóa Lộc": "update",
+      "Hóa Lộc": "Vũ Khúc Hóa Lộc: lộc từ nghị lực lao động, tài chính và sự cứng rắn; làm bền, giữ chữ tín thì được trả công xứng đáng.",
       "Hóa Quyền": "thêm phần hành động, sự quyết liệt",
-      "Hóa Khoa": "chỉ có tiếng không có miếng",
-      "Hóa Kỵ": "tài tinh sợ nhất hóa kỵ, có thể là chi tiêu mở rộng, dính lứu dao kéo, kiểm tra KHÔNG-KIẾP. ĐỐI XUONG KHÚC không có thì nguy hơn"
+      "Hóa Khoa": "học lực thiên về thực hành, kinh nghiệm và tính thực dụng (làm được – nói được), dễ mạnh về tài chính/kế toán/kỹ năng. chỉ có tiếng không có miếng",
+      "Hóa Kỵ": "Vũ Khúc Hóa Kỵ: bài học kiểm soát tài chính/cố chấp; dễ tổn thất khi quá cứng, cần linh hoạt và mềm cảm xúc.
+tài tinh sợ nhất hóa kỵ, có thể là chi tiêu mở rộng, dính lứu dao kéo, kiểm tra KHÔNG-KIẾP. ĐỐI XUONG KHÚC không có thì nguy hơn"
     }
   },
   "Thái Dương": {
     "base": "Là con giai, là đi chơi, là buôn điện thoại, là danh tiếng",
     "hoa": {
       "Hóa Lộc": "là vui bên ngoài",
-      "Hóa Quyền": "là tăng địa vị, quyền lực",
-      "Hóa Kỵ": "buồn rồi, ngược lại tính cách Thái Dương"
+      "Hóa Quyền": "Thái Dương Hóa Quyền: quyền từ hình ảnh cá nhân và khả năng tỏa sáng; cần làm chủ ánh sáng để không ‘tự đốt’.
+là tăng địa vị, quyền lực",
+      "Hóa Kỵ": "buồn rồi, ngược lại tính cách Thái Dương.Thái Dương Hóa Kỵ: bài học về cái tôi/ánh hào quang và sự phơi bày quá đà; cần học khiêm tốn, bền bỉ nuôi sáng thay vì “chiếu rọi"
     }
   },
   "Thiên Cơ": {
     "base": "Là cái đầu, là suy nghĩ, trí tuệ mưu lược, sự chủ động linh hoạt",
     "hoa": {
-      "Hóa Lộc": "SỰ CHỦ ĐỘNG",
-      "Hóa Quyền": "SỰ LINH HOẠT",
-      "Hóa Khoa": "xu hướng theo QUYỀN, VIRAL",
-      "Hóa Kỵ": "Giảm linh động, là suy nghĩ nhiều tiêu cực, có trở ngại, hoặc phản ứng quá mức"
+      "Hóa Lộc": "SỰ CHỦ ĐỘNG. Thiên Cơ Hóa Lộc: lộc từ trí óc, mưu lược, sáng tạo; hợp môi trường uyển chuyển và biết tùy thời biến hoá.",
+      "Hóa Quyền": "SỰ LINH HOẠT. Thiên Cơ Hóa Quyền: quyền từ khả năng xoay chuyển cục diện, chiến lược mềm; cần giữ đạo đức để không sa đà mưu mẹo.",
+      "Hóa Khoa": "Thiên Cơ Hóa Khoa: trí tuệ linh động, học qua biến hóa; hợp vai trò quân sư/chiến lược, nghiên cứu thời vận.
+xu hướng theo QUYỀN, VIRAL",
+      "Hóa Kỵ": "Thiên Cơ Hóa Kỵ: bài học do dự/đa nghi và thay đổi; cần tin trực giác đúng mức để không đánh mất cơ hội.
+Giảm linh động, là suy nghĩ nhiều tiêu cực, có trở ngại, hoặc phản ứng quá mức"
     }
   },
   "Thiên Lương": {
     "base": "",
     "hoa": {
-      "Hóa Lộc": "",
-      "Hóa Quyền": "",
-      "Hóa Khoa": ""
+      "Hóa Lộc": "Thiên Lương Hóa Lộc: lộc từ đức hạnh và con đường đạo đức/chữa lành; dễ có tài vận khi làm nghề ‘đúng’.",
+      "Hóa Quyền": "Thiên Lương Hóa Quyền: quyền từ đạo đức/bảo hộ/chính nghĩa; mạnh khi đứng vai che chở, dẫn dắt theo tinh thần chính trực.",
+      "Hóa Khoa": "Thiên Lương Hóa Khoa: trí tuệ y-đức/nhân hậu; hợp con đường chữa lành, nghề ‘lành’, giữ đạo nghĩa."
     }
   },
   "Tử Vi": {
     "base": "",
     "hoa": {
-      "Hóa Quyền": "",
-      "Hóa Khoa": ""
+      "Hóa Quyền": "Tử Vi Hóa Quyền: quyền lực vương giả và uy tín tự thân; trưởng thành sẽ có khí chất lãnh đạo thiên mệnh.",
+      "Hóa Khoa": "Tử Vi Hóa Khoa: trí tuệ hệ thống, phẩm chất ‘quân’ (tầm nhìn/cấu trúc); dễ thành danh khi rèn sự điềm tĩnh và năng lực quản trị."
     }
   },
   "Thái Âm": {
     "base": "TIỀN TÀI, tích trữ, kế hoạch (nhưng không có tính hành động)",
     "hoa": {
-      "Hóa Lộc": "có tiền rồi, nhưng phải miếu vượng, hoặc không thì gặp phản cách phù hợp. Nếu hãm thì niềm vui tinh thần thôi, kiểu mãn nguyện",
-      "Hóa Quyền": "mang tính cát lợi nha, mang tính kiểm soát đc nguồn tài chính",
-      "Hóa Khoa": "Biểu trưng cho tu dưỡng",
-      "Hóa Kỵ": "Bất lợi với người thân phái nữ, nhất là hãm. Mất tiền hoặc rắc rối tình cảm"
+      "Hóa Lộc": "Thái Âm Hóa Lộc: lộc từ trực giác, nhân duyên, sự dịu dàng; đôi khi thuận lợi đến qua nữ giới hoặc yếu tố ‘hậu trường’. 
+có tiền rồi, nhưng phải miếu vượng, hoặc không thì gặp phản cách phù hợp. Nếu hãm thì niềm vui tinh thần thôi, kiểu mãn nguyện",
+      "Hóa Quyền": "Thái Âm Hóa Quyền: quyền mềm, ảnh hưởng từ phía sau qua cảm xúc; càng hiểu nội tâm càng mạnh (nhưng cần tránh thao túng).
+mang tính cát lợi nha, mang tính kiểm soát đc nguồn tài chính",
+      "Hóa Khoa": "Thái Âm Hóa Khoa: trí tuệ cảm xúc và trực giác; học qua bài học mềm (thấu hiểu, nhớ, buông).
+Biểu trưng cho tu dưỡng",
+      "Hóa Kỵ": "Thái Âm Hóa Kỵ: bài học cảm xúc/ẩn ức và cô đơn âm thầm; cần học bộc lộ, chuyển hoá yếu mềm thành sức mạnh. Bất lợi với người thân phái nữ, nhất là hãm. Mất tiền hoặc rắc rối tình cảm"
     }
   },
   "Thiên Đồng": {
     "base": "chủ tâm trạng, là inner child",
     "hoa": {
-      "Hóa Lộc": "tăng tài lộc, dễ gặp duyên bất ngờ",
-      "Hóa Quyền": "có năng lực khai sáng, nhưng dễ chìm đắm lục dục, thiếu chí tiến thủ. Kiểu tiềm năng của đứa trẻ nhưng pạn chưa đủ năng lực",
-      "Hóa Kỵ": "Tâm trạng bất ổn. Dễ xảy ra rắc rối, khó xử về tình cảm, khổ vì tình. Tâm Trạng bất an, tinh thần suy sụp"
+      "Hóa Lộc": "Thiên Đồng Hóa Lộc: lộc từ sự vui vẻ, cởi mở, linh hoạt và thiện cảm; cần lập trường để tránh ‘lộc thành lãng phí’. tăng tài lộc, dễ gặp duyên bất ngờ",
+      "Hóa Quyền": "Thiên Đồng Hóa Quyền: quyền từ sự hòa ái và khả năng tạo niềm tin; có thể dẫn dắt tập thể theo cách ‘mềm mà mạnh’.
+có năng lực khai sáng, nhưng dễ chìm đắm lục dục, thiếu chí tiến thủ. Kiểu tiềm năng của đứa trẻ nhưng pạn chưa đủ năng lực",
+      "Hóa Kỵ": "Thiên Đồng Hóa Kỵ: bài học về cảm xúc bị bóp nghẹt và cô đơn nội tâm; cần thả lỏng và cho phép yếu mềm.
+Tâm trạng bất ổn. Dễ xảy ra rắc rối, khó xử về tình cảm, khổ vì tình. Tâm Trạng bất an, tinh thần suy sụp"
     }
   },
   "Văn Xương": {
     "base": "",
     "hoa": {
-      "Hóa Khoa": "",
-      "Hóa Kỵ": ""
+      "Hóa Khoa": "Văn Xương Hóa Khoa: học thuật/diễn đạt, tư duy lý tưởng hoá; hợp vai trò giáo dục, viết lách, nghiên cứu trong môi trường trí tuệ.",
+      "Hóa Kỵ": "Văn Xương Hóa Kỵ: bài học ảo tưởng tri thức/lý thuyết suông; càng giỏi càng cần khiêm tốn để tránh ‘văn chương hại thân’."
     }
   },
   "Cự Môn": {
     "base": "là cái miệng, thì phi, điều tiếng",
     "hoa": {
-      "Hóa Lộc": "Hóa lộc thành nói để phục vụ, ngọt ngào. Khuynh hướng show off bản thân mạnh, dễ che lấp người khác gây thị phi. Cự môn lộc kị sát tinh đồng cung, nhất HỎA LINH",
-      "Hóa Quyền": "Lời nói có sức thuyết phục",
-      "Hóa Kỵ": "cự kị còn là hay hỏi, hay thắc mắc, phản biện, bộ sao của Mình, Trường, QAN là bộ dễ cự kị nên hay đi hỏi là đây. Dễ vướng thị phi, tranh cãi"
+      "Hóa Lộc": "Cự Môn Hóa Lộc: lộc từ lời nói/biện luận/truyền thông; hợp viết-nói-phản biện để tạo giá trị.
+Hóa lộc thành nói để phục vụ, ngọt ngào. Khuynh hướng show off bản thân mạnh, dễ che lấp người khác gây thị phi. Cự môn lộc kị sát tinh đồng cung, nhất HỎA LINH",
+      "Hóa Quyền": "Cự Môn Hóa Quyền: quyền lực ngôn từ và sức nặng thuyết phục; hợp nghề viết-nói-truyền thông.
+Lời nói có sức thuyết phục",
+      "Hóa Kỵ": "Cự Môn Hóa Kỵ: bài học ngôn từ/hiểu lầm; cần tỉnh thức trong lời nói, tránh tiêu cực hoặc im lặng nặng nề.
+cự kị còn là hay hỏi, hay thắc mắc, phản biện, bộ sao của Mình, Trường, QAN là bộ dễ cự kị nên hay đi hỏi là đây. Dễ vướng thị phi, tranh cãi"
     }
   },
   "Tham Lang": {
     "base": "Ham Muốn: vật chất, hưởng thụ, giao tế, làm đẹp, xinh . Dễ chi tiêu mạnh. Trang sức, trang hoàng, làm dáng",
     "hoa": {
-      "Hóa Lộc": "",
-      "Hóa Quyền": "quyền làm tăng dục vọng, tính cạnh tranh cao",
-      "Hóa Kỵ": "ĐOẠT TÌNH, nhẹ thì ko theo ý, nặng thì stress. hóa kị mất phép lịch sự, thiếu đức, tốn tiền vô ích"
+      "Hóa Lộc": "Tham Lang Hóa Lộc: lộc từ giao tế, quan hệ, nghệ thuật ứng xử và sức hút; ‘chơi đúng cách’ thì dễ có lộc.",
+      "Hóa Quyền": "Tham Lang Hóa Quyền: quyền qua mạng lưới/quan hệ và ham muốn sống mạnh; biết dùng sức hút xã hội sẽ tạo thế kiểm soát.
+quyền làm tăng dục vọng, tính cạnh tranh cao",
+      "Hóa Kỵ": "Tham Lang Hóa Kỵ: bài học dục vọng/đam mê; cần tỉnh thức và điều tiết bản năng để tránh sa đà.
+ĐOẠT TÌNH, nhẹ thì ko theo ý, nặng thì stress. hóa kị mất phép lịch sự, thiếu đức, tốn tiền vô ích"
     }
   },
   "Hữu Bật": {
     "base": "",
     "hoa": {
-      "Hóa Khoa": ""
+      "Hóa Khoa": "Hữu Bật Hóa Khoa: trí tuệ hỗ trợ/cộng tác; mạnh khi làm ‘hậu cần chiến lược’ hoặc trợ thủ quyền lực."
     }
   },
   "Văn Khúc": {
     "base": "",
     "hoa": {
-      "Hóa Khoa": "",
-      "Hóa Kỵ": ""
+      "Hóa Khoa": "Văn Khúc Hóa Khoa: trí tuệ nghệ thuật, phân tích sâu; hợp học thuật/sáng tạo nhưng phải giữ mạch lạc giữa đẹp và thật.",
+      "Hóa Kỵ": "Văn Khúc Hóa Kỵ: bài học phô trương tri thức/ngôn từ; cần sống-thấy-viết thật, tránh hào nhoáng gây hiểu lầm."
     }
   },
   "Thiên Phủ": {
     "base": "",
     "hoa": {
       "Hóa Khoa": ""
+    }
+  }
+  "Tả Phù": {
+    "base": "",
+    "hoa": {
+      "Hóa Khoa": "Tả Phụ Hóa Khoa: trí tuệ từ hệ thống và người thầy/cố vấn; học từ người giỏi và nâng đỡ người khác."
     }
   }
 }
