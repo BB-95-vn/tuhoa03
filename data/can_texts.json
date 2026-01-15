@@ -1,0 +1,162 @@
+{
+  "Giáp": {
+    "tu_hoa": {
+      "loc": "Liêm Trinh",
+      "quyen": "Phá Quân",
+      "khoa": "Vũ Khúc",
+      "ky": "Thái Dương"
+    },
+    "tong_quan": "Giáp thuộc Dương Mộc, khí tiên khởi – mở đường, tiên phong, bộc lộ sức vươn lên mạnh mẽ.",
+    "giai_nghia": {
+      "Hóa Lộc": "Liêm Trinh Hóa Lộc: lộc đến từ kỷ luật, giới luật, phẩm chất và việc giữ chuẩn mực; càng bền bỉ gìn giữ giá trị càng dễ sinh phúc lộc.",
+      "Hóa Quyền": "Phá Quân Hóa Quyền: quyền đến từ đột phá/cải cách; mạnh khi dấn thân đổi mới, nhưng cần kiểm soát “sức phá” để tránh phản tác dụng.",
+      "Hóa Khoa": "Vũ Khúc Hóa Khoa: học lực thiên về thực hành, kinh nghiệm và tính thực dụng (làm được – nói được), dễ mạnh về tài chính/kế toán/kỹ năng.",
+      "Hóa Kỵ": "Thái Dương Hóa Kỵ: bài học về cái tôi/ánh hào quang và sự phơi bày quá đà; cần học khiêm tốn, bền bỉ nuôi sáng thay vì “chiếu rọi”."
+    },
+    "ket_cau": "Mẫu người mở đường; trưởng thành khi chuyển từ phá phách sang cải hoá và biết đặt kỷ luật lên trước cái tôi."
+  },
+  "Ất": {
+    "tu_hoa": {
+      "loc": "Thiên Cơ",
+      "quyen": "Thiên Lương",
+      "khoa": "Tử Vi",
+      "ky": "Thái Âm"
+    },
+    "tong_quan": "Ất thuộc Âm Mộc: mềm dẻo, linh hoạt, thích nghi; có chiều sâu và sức bền âm thầm nhưng dễ uẩn ức.",
+    "giai_nghia": {
+      "Hóa Lộc": "Thiên Cơ Hóa Lộc: lộc từ trí óc, mưu lược, sáng tạo; hợp môi trường uyển chuyển và biết tùy thời biến hoá.",
+      "Hóa Quyền": "Thiên Lương Hóa Quyền: quyền từ đạo đức/bảo hộ/chính nghĩa; mạnh khi đứng vai che chở, dẫn dắt theo tinh thần chính trực.",
+      "Hóa Khoa": "Tử Vi Hóa Khoa: trí tuệ hệ thống, phẩm chất ‘quân’ (tầm nhìn/cấu trúc); dễ thành danh khi rèn sự điềm tĩnh và năng lực quản trị.",
+      "Hóa Kỵ": "Thái Âm Hóa Kỵ: bài học cảm xúc/ẩn ức và cô đơn âm thầm; cần học bộc lộ, chuyển hoá yếu mềm thành sức mạnh."
+    },
+    "ket_cau": "Khí chất cố vấn/nâng đỡ; bài học lớn là không để cảm xúc chi phối và biết tự giải thoát khỏi tổn thương ngầm."
+  },
+  "Bính": {
+    "tu_hoa": {
+      "loc": "Thiên Đồng",
+      "quyen": "Thiên Cơ",
+      "khoa": "Văn Xương",
+      "ky": "Liêm Trinh"
+    },
+    "tong_quan": "Bính thuộc Dương Hỏa: rực rỡ, lý tưởng, truyền cảm hứng; dễ bùng cháy mạnh khi có mục tiêu rõ.",
+    "giai_nghia": {
+      "Hóa Lộc": "Thiên Đồng Hóa Lộc: lộc từ sự vui vẻ, cởi mở, linh hoạt và thiện cảm; cần lập trường để tránh ‘lộc thành lãng phí’.",
+      "Hóa Quyền": "Thiên Cơ Hóa Quyền: quyền từ khả năng xoay chuyển cục diện, chiến lược mềm; cần giữ đạo đức để không sa đà mưu mẹo.",
+      "Hóa Khoa": "Văn Xương Hóa Khoa: học thuật/diễn đạt, tư duy lý tưởng hoá; hợp vai trò giáo dục, viết lách, nghiên cứu trong môi trường trí tuệ.",
+      "Hóa Kỵ": "Liêm Trinh Hóa Kỵ: bài học về dục vọng/kỷ luật bản thân; cần điều tiết cảm xúc và tránh tự trói bởi giới hạn do mình dựng."
+    },
+    "ket_cau": "Sinh ra để bừng sáng và truyền cảm hứng; thành công khi biết tiết chế và làm chủ bản thân."
+  },
+  "Đinh": {
+    "tu_hoa": {
+      "loc": "Thái Âm",
+      "quyen": "Thiên Đồng",
+      "khoa": "Thiên Cơ",
+      "ky": "Cự Môn"
+    },
+    "tong_quan": "Đinh thuộc Âm Hỏa: ấm áp, trực giác, tinh tế; thiên hướng hướng nội và giàu chiều sâu cảm xúc.",
+    "giai_nghia": {
+      "Hóa Lộc": "Thái Âm Hóa Lộc: lộc từ trực giác, nhân duyên, sự dịu dàng; đôi khi thuận lợi đến qua nữ giới hoặc yếu tố ‘hậu trường’.",
+      "Hóa Quyền": "Thiên Đồng Hóa Quyền: quyền từ sự hòa ái và khả năng tạo niềm tin; có thể dẫn dắt tập thể theo cách ‘mềm mà mạnh’.",
+      "Hóa Khoa": "Thiên Cơ Hóa Khoa: trí tuệ linh động, học qua biến hóa; hợp vai trò quân sư/chiến lược, nghiên cứu thời vận.",
+      "Hóa Kỵ": "Cự Môn Hóa Kỵ: bài học ngôn từ/hiểu lầm; cần tỉnh thức trong lời nói, tránh tiêu cực hoặc im lặng nặng nề."
+    },
+    "ket_cau": "Ánh sáng lặng; cần vượt qua vòng xoáy nghi hoặc và rèn lời nói trong sáng để nội lực tăng lên."
+  },
+  "Mậu": {
+    "tu_hoa": {
+      "loc": "Tham Lang",
+      "quyen": "Thái Âm",
+      "khoa": "Hữu Bật",
+      "ky": "Thiên Cơ"
+    },
+    "tong_quan": "Mậu thuộc Dương Thổ: vững, thực tế, gánh vác; biểu tượng trụ cột và trung tâm quyền lực.",
+    "giai_nghia": {
+      "Hóa Lộc": "Tham Lang Hóa Lộc: lộc từ giao tế, quan hệ, nghệ thuật ứng xử và sức hút; ‘chơi đúng cách’ thì dễ có lộc.",
+      "Hóa Quyền": "Thái Âm Hóa Quyền: quyền mềm, ảnh hưởng từ phía sau qua cảm xúc; càng hiểu nội tâm càng mạnh (nhưng cần tránh thao túng).",
+      "Hóa Khoa": "Hữu Bật Hóa Khoa: trí tuệ hỗ trợ/cộng tác; mạnh khi làm ‘hậu cần chiến lược’ hoặc trợ thủ quyền lực.",
+      "Hóa Kỵ": "Thiên Cơ Hóa Kỵ: bài học do dự/đa nghi và thay đổi; cần tin trực giác đúng mức để không đánh mất cơ hội."
+    },
+    "ket_cau": "Trở thành cốt lõi vững chãi nhưng phải buông kiểm soát và học linh hoạt hơn."
+  },
+  "Kỷ": {
+    "tu_hoa": {
+      "loc": "Vũ Khúc",
+      "quyen": "Tham Lang",
+      "khoa": "Thiên Lương",
+      "ky": "Văn Khúc"
+    },
+    "tong_quan": "Kỷ thuộc Âm Thổ: nuôi dưỡng, tận tụy, trách nhiệm; đôi khi bị ‘nợ đời’ ràng buộc.",
+    "giai_nghia": {
+      "Hóa Lộc": "Vũ Khúc Hóa Lộc: lộc từ nghị lực lao động, tài chính và sự cứng rắn; làm bền, giữ chữ tín thì được trả công xứng đáng.",
+      "Hóa Quyền": "Tham Lang Hóa Quyền: quyền qua mạng lưới/quan hệ và ham muốn sống mạnh; biết dùng sức hút xã hội sẽ tạo thế kiểm soát.",
+      "Hóa Khoa": "Thiên Lương Hóa Khoa: trí tuệ y-đức/nhân hậu; hợp con đường chữa lành, nghề ‘lành’, giữ đạo nghĩa.",
+      "Hóa Kỵ": "Văn Khúc Hóa Kỵ: bài học phô trương tri thức/ngôn từ; cần sống-thấy-viết thật, tránh hào nhoáng gây hiểu lầm."
+    },
+    "ket_cau": "Nuôi dưỡng đời bằng hành động; quyền lực thật nằm ở tâm đức hơn vỏ ngôn từ."
+  },
+  "Canh": {
+    "tu_hoa": {
+      "loc": "Thái Dương",
+      "quyen": "Vũ Khúc",
+      "khoa": "Thái Âm",
+      "ky": "Thiên Đồng"
+    },
+    "tong_quan": "Canh thuộc Dương Kim: sắc bén, kỷ luật, tinh thần chiến binh; mạnh về tổ chức và thiết lập trật tự.",
+    "giai_nghia": {
+      "Hóa Lộc": "Thái Dương Hóa Lộc: lộc từ sự sáng rõ, chính trực và minh bạch; càng ‘thẳng và sáng’ càng dễ hút tài lộc.",
+      "Hóa Quyền": "Vũ Khúc Hóa Quyền: quyền từ quyết đoán, kỷ luật và sự khắt khe; hợp vai trò chỉ huy/điều hành (nhưng tránh cứng quá).",
+      "Hóa Khoa": "Thái Âm Hóa Khoa: trí tuệ cảm xúc và trực giác; học qua bài học mềm (thấu hiểu, nhớ, buông).",
+      "Hóa Kỵ": "Thiên Đồng Hóa Kỵ: bài học về cảm xúc bị bóp nghẹt và cô đơn nội tâm; cần thả lỏng và cho phép yếu mềm."
+    },
+    "ket_cau": "Xây hệ thống và trật tự; trưởng thành khi biết mềm trong sức mạnh và mở lòng."
+  },
+  "Tân": {
+    "tu_hoa": {
+      "loc": "Cự Môn",
+      "quyen": "Thái Dương",
+      "khoa": "Văn Khúc",
+      "ky": "Văn Xương"
+    },
+    "tong_quan": "Tân thuộc Âm Kim: tinh tế, lý trí ẩn sau cảm xúc; gu thẩm mỹ cao, thích phân tích sắc sảo.",
+    "giai_nghia": {
+      "Hóa Lộc": "Cự Môn Hóa Lộc: lộc từ lời nói/biện luận/truyền thông; hợp viết-nói-phản biện để tạo giá trị.",
+      "Hóa Quyền": "Thái Dương Hóa Quyền: quyền từ hình ảnh cá nhân và khả năng tỏa sáng; cần làm chủ ánh sáng để không ‘tự đốt’.",
+      "Hóa Khoa": "Văn Khúc Hóa Khoa: trí tuệ nghệ thuật, phân tích sâu; hợp học thuật/sáng tạo nhưng phải giữ mạch lạc giữa đẹp và thật.",
+      "Hóa Kỵ": "Văn Xương Hóa Kỵ: bài học ảo tưởng tri thức/lý thuyết suông; càng giỏi càng cần khiêm tốn để tránh ‘văn chương hại thân’."
+    },
+    "ket_cau": "Đi giữa nghệ thuật và lý trí; bài học lớn là trung thực với tri thức và bỏ phù phiếm."
+  },
+  "Nhâm": {
+    "tu_hoa": {
+      "loc": "Thiên Lương",
+      "quyen": "Tử Vi",
+      "khoa": "Tả Phụ",
+      "ky": "Vũ Khúc"
+    },
+    "tong_quan": "Nhâm thuộc Dương Thủy: sâu, bao dung, thông tuệ; nội tâm thâm trầm và phòng thủ cao.",
+    "giai_nghia": {
+      "Hóa Lộc": "Thiên Lương Hóa Lộc: lộc từ đức hạnh và con đường đạo đức/chữa lành; dễ có tài vận khi làm nghề ‘đúng’.",
+      "Hóa Quyền": "Tử Vi Hóa Quyền: quyền lực vương giả và uy tín tự thân; trưởng thành sẽ có khí chất lãnh đạo thiên mệnh.",
+      "Hóa Khoa": "Tả Phụ Hóa Khoa: trí tuệ từ hệ thống và người thầy/cố vấn; học từ người giỏi và nâng đỡ người khác.",
+      "Hóa Kỵ": "Vũ Khúc Hóa Kỵ: bài học kiểm soát tài chính/cố chấp; dễ tổn thất khi quá cứng, cần linh hoạt và mềm cảm xúc."
+    },
+    "ket_cau": "Sống để truyền dẫn tri thức; thành công khi biết ‘chảy mềm’ và bớt phòng thủ."
+  },
+  "Quý": {
+    "tu_hoa": {
+      "loc": "Phá Quân",
+      "quyen": "Cự Môn",
+      "khoa": "Thái Âm",
+      "ky": "Tham Lang"
+    },
+    "tong_quan": "Quý thuộc Âm Thủy: trực giác sâu, linh hoạt, giỏi ẩn thân; thường sống ‘hai tầng’ (ngoài đời và nội tâm).",
+    "giai_nghia": {
+      "Hóa Lộc": "Phá Quân Hóa Lộc: lộc từ phá cách/cách mạng; càng dám đổi mới càng dễ gặp vận may.",
+      "Hóa Quyền": "Cự Môn Hóa Quyền: quyền lực ngôn từ và sức nặng thuyết phục; hợp nghề viết-nói-truyền thông.",
+      "Hóa Khoa": "Thái Âm Hóa Khoa: trí tuệ cảm xúc và chiều sâu tâm lý; hợp học chữa lành, nuôi dưỡng nội tâm.",
+      "Hóa Kỵ": "Tham Lang Hóa Kỵ: bài học dục vọng/đam mê; cần tỉnh thức và điều tiết bản năng để tránh sa đà."
+    },
+    "ket_cau": "Khí chất ẩn sĩ/nghệ sĩ/cách mạng; bài học là chuyển hoá dục vọng thành ánh sáng tinh thần."
+  }
+}

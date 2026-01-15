@@ -1,0 +1,38 @@
+body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial; margin: 0; background:#fafafa; }
+.container { max-width: 980px; margin: 0 auto; padding: 16px; }
+.card { background:#fff; border:1px solid #eee; border-radius: 12px; padding: 12px; margin-bottom: 12px; }
+h1 { margin: 0 0 12px; }
+h2 { margin: 0 0 10px; font-size: 18px; }
+label { display:block; font-size: 13px; color:#333; margin-bottom: 6px; }
+select, button, input { width:100%; height: 42px; border-radius: 10px; border:1px solid #ddd; padding: 0 10px; font-size: 15px; background:#fff; box-sizing: border-box; }
+button { background:#111; color:#fff; border:none; cursor:pointer; }
+button:disabled { background:#999; cursor:not-allowed; }
+.row { display:grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.grid2 { display:grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+@media (max-width: 640px) { .row { grid-template-columns: 1fr; } .grid2 { grid-template-columns: 1fr; } }
+.result { margin-top: 10px; font-weight: 700; }
+.error { margin-top: 10px; color: #b00020; font-weight: 600; }
+.note { margin: 6px 0 0; color:#666; font-size: 13px; }
+.chart { margin-top: 10px; }
+.grid12 { display:grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+@media (min-width: 768px) { .grid12 { grid-template-columns: repeat(4, 1fr); } }
+.house { background:#fff; border:1px solid #eee; border-radius: 12px; padding: 10px; min-height: 92px; }
+.house-title { font-weight: 800; margin-bottom: 6px; }
+.badge { display:inline-block; padding: 4px 8px; border-radius: 999px; background:#f2f2f2; margin: 2px 4px 0 0; font-size: 12px; }
+.badge.hloc { outline: 2px solid #2e7d32; }
+.badge.hquyen { outline: 2px solid #1565c0; }
+.badge.hkhoa { outline: 2px solid #6a1b9a; }
+.badge.hky { outline: 2px solid #c62828; }
+.badge.dayhouse { outline: 2px dashed #111; }
+.muted { color:#999; font-size: 12px; }
+
+.stats { margin: 10px 0 12px; overflow-x: auto; }
+.stats table { width: 100%; border-collapse: collapse; font-size: 13px; }
+.stats th, .stats td { border: 1px solid #eee; padding: 8px; vertical-align: top; }
+.stats th { background: #fafafa; text-align: left; }
+.pill { display:inline-block; padding: 3px 8px; border-radius: 999px; background:#f2f2f2; margin: 2px 4px 0 0; font-size: 12px; }
+.pill.hloc { outline: 2px solid #2e7d32; }
+.pill.hquyen { outline: 2px solid #1565c0; }
+.pill.hkhoa { outline: 2px solid #6a1b9a; }
+.pill.hky { outline: 2px solid #c62828; }
+.small-muted { color:#777; font-size: 12px; }

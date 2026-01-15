@@ -1,0 +1,21 @@
+.can-table-wrap{margin:10px 0 0;overflow-x:auto}
+.can-table{width:100%;border-collapse:collapse;font-size:13px}
+.can-table th,.can-table td{border:1px solid #eee;padding:8px;vertical-align:top}
+.can-table th{background:#fafafa;text-align:left}
+
+.can-chip{display:inline-block;padding:4px 10px;border-radius:999px;background:#111;color:#fff;cursor:pointer;font-size:12px}
+.can-chip:hover{filter:brightness(0.95)}
+
+/* modal */
+#canModal.hidden{display:none}
+#canModal{position:fixed;inset:0;z-index:10050}
+#canModal .modal-backdrop{position:absolute;inset:0;background:rgba(0,0,0,.35)}
+#canModal .modal-card{position:relative;margin:10vh auto 0;width:min(720px,calc(100% - 24px));background:#fff;border-radius:14px;border:1px solid #eee;padding:12px;box-shadow:0 10px 30px rgba(0,0,0,.12)}
+#canModal .modal-header{display:flex;align-items:center;justify-content:space-between;gap:10px}
+#canModal .modal-title{font-weight:900;font-size:18px}
+#canModal .modal-x{width:auto;height:36px;padding:0 10px;border-radius:10px;background:#111;color:#fff;border:none;cursor:pointer}
+#canModal .modal-body{margin-top:10px;line-height:1.5}
+#canModal .modal-section{margin-top:12px}
+#canModal .modal-section h3{margin:0 0 6px;font-size:14px}
+
+.can-explain{margin:6px 0}

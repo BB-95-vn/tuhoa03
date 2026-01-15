@@ -1,0 +1,62 @@
+/* ===== Add-on: Click sao -> Modal giải nghĩa ===== */
+.star-click{ cursor:pointer; }
+.star-click:hover{ filter: brightness(0.95); }
+
+/* Modal */
+#starModal.hidden{ display:none; }
+#starModal{
+  position:fixed;
+  inset:0;
+  z-index:9999;
+}
+#starModal .modal-backdrop{
+  position:absolute;
+  inset:0;
+  background: rgba(0,0,0,0.35);
+}
+#starModal .modal-card{
+  position:relative;
+  margin: 10vh auto 0;
+  width: min(720px, calc(100% - 24px));
+  background:#fff;
+  border-radius:14px;
+  border:1px solid #eee;
+  padding:12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+}
+#starModal .modal-header{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:10px;
+}
+#starModal .modal-title{
+  font-weight:900;
+  font-size:18px;
+}
+#starModal .modal-x{
+  width:auto;
+  height:36px;
+  padding:0 10px;
+  border-radius:10px;
+  background:#111;
+  color:#fff;
+  border:none;
+  cursor:pointer;
+}
+#starModal .modal-body{
+  margin-top:10px;
+  line-height:1.5;
+}
+#starModal .modal-section{ margin-top:12px; }
+#starModal .modal-section h3{ margin:0 0 6px; font-size:14px; }
+
+#starModal .modal-chip{
+  display:inline-block;
+  padding:4px 8px;
+  border-radius:999px;
+  background:#f2f2f2;
+  margin: 0 6px 6px 0;
+  font-size:12px;
+}
+#starModal .small-muted{ color:#777; font-size:12px; }

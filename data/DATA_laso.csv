@@ -1,0 +1,290 @@
+﻿GroupID,Loại,Cung địa chi,Chính Tinh,Chính Tinh Đối Cung,Chính Tinh Nhị Hợp,Lá tại Tý,Chính tinh tam hợp,Chính tinh tam hợp
+group_id,type,cung.diachi,chinhtinh,d.chinhtinh,n.chinhtinh,check.ty,t1.chinhtinh,t2.chinhtinh
+1,Tử Vi đơn thủ Tý -Ngọ,Tý,Vô Chính Diệu,Vô Chính Diệu,Thiên Đồng,Tham Lang|Vô Chính Diệu,Thất Sát,Vô Chính Diệu
+1,Tử Vi đơn thủ Tý -Ngọ,Tý,Tham Lang,Tử Vi,Cự Môn,Tham Lang|Vô Chính Diệu,Vô Chính Diệu,Phá Quân
+1,Tử Vi đơn thủ Tý -Ngọ,Sửu,Thiên Đồng,Vô Chính Diệu,Vô Chính Diệu,,Thiên Cơ,Vô Chính Diệu
+1,Tử Vi đơn thủ Tý -Ngọ,Sửu,Cự Môn,Vô Chính Diệu,Tham Lang,,Vô Chính Diệu,Vô Chính Diệu
+1,Tử Vi đơn thủ Tý -Ngọ,Dần,Vũ Khúc,Vô Chính Diệu,Vô Chính Diệu,,Tử Vi,Liêm Trinh
+1,Tử Vi đơn thủ Tý -Ngọ,Dần,Thiên Tướng,Phá Quân,Thái Âm,,Vô Chính Diệu,Thiên Phủ
+1,Tử Vi đơn thủ Tý -Ngọ,Mão,Thái Dương,Vô Chính Diệu,Liêm Trinh,,Vô Chính Diệu,Vô Chính Diệu
+1,Tử Vi đơn thủ Tý -Ngọ,Mão,Thiên Lương,Vô Chính Diệu,Thiên Phủ,,Vô Chính Diệu,Thái Âm
+1,Tử Vi đơn thủ Tý -Ngọ,Thìn,Vô Chính Diệu,Liêm Trinh,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+1,Tử Vi đơn thủ Tý -Ngọ,Thìn,Thất Sát,Thiên Phủ,Vô Chính Diệu,,Phá Quân,Tham Lang
+1,Tử Vi đơn thủ Tý -Ngọ,Tỵ,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Thiên Đồng
+1,Tử Vi đơn thủ Tý -Ngọ,Tỵ,Thiên Cơ,Thái Âm,Phá Quân,,Vô Chính Diệu,Cự Môn
+1,Tử Vi đơn thủ Tý -Ngọ,Ngọ,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Liêm Trinh,Vũ Khúc
+1,Tử Vi đơn thủ Tý -Ngọ,Ngọ,Tử Vi,Tham Lang,Vô Chính Diệu,,Thiên Phủ,Thiên Tướng
+1,Tử Vi đơn thủ Tý -Ngọ,Mùi,Vô Chính Diệu,Thiên Đồng,Vô Chính Diệu,,Vô Chính Diệu,Thái Dương
+1,Tử Vi đơn thủ Tý -Ngọ,Mùi,Vô Chính Diệu,Cự Môn,Tử Vi,,Thái Âm,Thiên Lương
+1,Tử Vi đơn thủ Tý -Ngọ,Thân,Vô Chính Diệu,Vũ Khúc,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+1,Tử Vi đơn thủ Tý -Ngọ,Thân,Phá Quân,Thiên Tướng,Thiên Cơ,,Tham Lang,Thất Sát
+1,Tử Vi đơn thủ Tý -Ngọ,Dậu,Vô Chính Diệu,Thái Dương,Vô Chính Diệu,,Thiên Đồng,Vô Chính Diệu
+1,Tử Vi đơn thủ Tý -Ngọ,Dậu,Vô Chính Diệu,Thiên Lương,Thất Sát,,Cự Môn,Thiên Cơ
+1,Tử Vi đơn thủ Tý -Ngọ,Tuất,Liêm Trinh,Vô Chính Diệu,Thái Dương,,Vũ Khúc,Vô Chính Diệu
+1,Tử Vi đơn thủ Tý -Ngọ,Tuất,Thiên Phủ,Thất Sát,Thiên Lương,,Thiên Tướng,Tử Vi
+1,Tử Vi đơn thủ Tý -Ngọ,Hợi,Vô Chính Diệu,Vô Chính Diệu,Vũ Khúc,,Thái Dương,Vô Chính Diệu
+1,Tử Vi đơn thủ Tý -Ngọ,Hợi,Thái Âm,Thiên Cơ,Thiên Tướng,,Thiên Lương,Vô Chính Diệu
+2,Tử Vi đơn thủ Tý -Ngọ,Ngọ,Vô Chính Diệu,Vô Chính Diệu,Thiên Đồng,,Thất Sát,Vô Chính Diệu
+2,Tử Vi đơn thủ Tý -Ngọ,Ngọ,Tham Lang,Tử Vi,Cự Môn,,Vô Chính Diệu,Phá Quân
+2,Tử Vi đơn thủ Tý -Ngọ,Mùi,Thiên Đồng,Vô Chính Diệu,Vô Chính Diệu,,Thiên Cơ,Vô Chính Diệu
+2,Tử Vi đơn thủ Tý -Ngọ,Mùi,Cự Môn,Vô Chính Diệu,Tham Lang,,Vô Chính Diệu,Vô Chính Diệu
+2,Tử Vi đơn thủ Tý -Ngọ,Thân,Vũ Khúc,Vô Chính Diệu,Vô Chính Diệu,,Tử Vi,Liêm Trinh
+2,Tử Vi đơn thủ Tý -Ngọ,Thân,Thiên Tướng,Phá Quân,Thái Âm,,Vô Chính Diệu,Thiên Phủ
+2,Tử Vi đơn thủ Tý -Ngọ,Dậu,Thái Dương,Vô Chính Diệu,Liêm Trinh,,Vô Chính Diệu,Vô Chính Diệu
+2,Tử Vi đơn thủ Tý -Ngọ,Dậu,Thiên Lương,Vô Chính Diệu,Thiên Phủ,,Thái Âm,Thái Âm
+2,Tử Vi đơn thủ Tý -Ngọ,Tuất,Vô Chính Diệu,Liêm Trinh,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+2,Tử Vi đơn thủ Tý -Ngọ,Tuất,Thất Sát,Thiên Phủ,Vô Chính Diệu,,Phá Quân,Tham Lang
+2,Tử Vi đơn thủ Tý -Ngọ,Hợi,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Thiên Đồng
+2,Tử Vi đơn thủ Tý -Ngọ,Hợi,Thiên Cơ,Thái Âm,Phá Quân,,Vô Chính Diệu,Cự Môn
+2,Tử Vi đơn thủ Tý -Ngọ,Tý,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,Tử Vi|Vô Chính Diệu,Liêm Trinh,Vũ Khúc
+2,Tử Vi đơn thủ Tý -Ngọ,Tý,Tử Vi,Tham Lang,Vô Chính Diệu,Tử Vi|Vô Chính Diệu,Thiên Phủ,Thiên Tướng
+2,Tử Vi đơn thủ Tý -Ngọ,Sửu,Vô Chính Diệu,Thiên Đồng,Vô Chính Diệu,,Thái Dương,Thái Dương
+2,Tử Vi đơn thủ Tý -Ngọ,Sửu,Vô Chính Diệu,Cự Môn,Tử Vi,,Thiên Lương,Thiên Lương
+2,Tử Vi đơn thủ Tý -Ngọ,Dần,Vô Chính Diệu,Vũ Khúc,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+2,Tử Vi đơn thủ Tý -Ngọ,Dần,Phá Quân,Thiên Tướng,Thiên Cơ,,Tham Lang,Thất Sát
+2,Tử Vi đơn thủ Tý -Ngọ,Mão,Vô Chính Diệu,Thái Dương,Vô Chính Diệu,,Thiên Đồng,Vô Chính Diệu
+2,Tử Vi đơn thủ Tý -Ngọ,Mão,Vô Chính Diệu,Thiên Lương,Thất Sát,,Cự Môn,Thiên Cơ
+2,Tử Vi đơn thủ Tý -Ngọ,Thìn,Liêm Trinh,Vô Chính Diệu,Thái Dương,,Vũ Khúc,Vô Chính Diệu
+2,Tử Vi đơn thủ Tý -Ngọ,Thìn,Thiên Phủ,Thất Sát,Thiên Lương,,Thiên Tướng,Tử Vi
+2,Tử Vi đơn thủ Tý -Ngọ,Tỵ,Vô Chính Diệu,Vô Chính Diệu,Vũ Khúc,,Vô Chính Diệu,Vô Chính Diệu
+2,Tử Vi đơn thủ Tý -Ngọ,Tỵ,Thái Âm,Thiên Cơ,Thiên Tướng,,Vô Chính Diệu,Vô Chính Diệu
+3,Tử Phủ Dần Thân,Tý,Liêm Trinh,Vô Chính Diệu,Vô Chính Diệu,Liêm Trinh|Thiên Tướng,Vô Chính Diệu,Tử Vi
+3,Tử Phủ Dần Thân,Tý,Thiên Tướng,Phá Quân,Thiên Lương,Liêm Trinh|Thiên Tướng,Vũ Khúc,Thiên Phủ
+3,Tử Phủ Dần Thân,Sửu,Vô Chính Diệu,Vô Chính Diệu,Liêm Trinh,,Vô Chính Diệu,Vô Chính Diệu
+3,Tử Phủ Dần Thân,Sửu,Thiên Lương,Thiên Cơ,Thiên Tướng,,Thái Dương,Thái Âm
+3,Tử Phủ Dần Thân,Dần,Vô Chính Diệu,Tử Vi,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+3,Tử Phủ Dần Thân,Dần,Thất Sát,Thiên Phủ,Cự Môn,,Phá Quân,Tham Lang
+3,Tử Phủ Dần Thân,Mão,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+3,Tử Phủ Dần Thân,Mão,Thiên Đồng,Thái Âm,Tham Lang,,Thiên Cơ,Cự Môn
+3,Tử Phủ Dần Thân,Thìn,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Tử Vi,Liêm Trinh
+3,Tử Phủ Dần Thân,Thìn,Vũ Khúc,Tham Lang,Thái Âm,,Thiên Phủ,Thiên Tướng
+3,Tử Phủ Dần Thân,Tỵ,Vô Chính Diệu,Vô Chính Diệu,Tử Vi,,Vô Chính Diệu,Vô Chính Diệu
+3,Tử Phủ Dần Thân,Tỵ,Thái Dương,Cự Môn,Thiên Phủ,,Thái Âm,Thiên Lương
+3,Tử Phủ Dần Thân,Ngọ,Vô Chính Diệu,Liêm Trinh,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+3,Tử Phủ Dần Thân,Ngọ,Phá Quân,Thiên Tướng,Thiên Cơ,,Tham Lang,Thất Sát
+3,Tử Phủ Dần Thân,Mùi,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+3,Tử Phủ Dần Thân,Mùi,Thiên Cơ,Thiên Lương,Phá Quân,,Cự Môn,Thiên Đồng
+3,Tử Phủ Dần Thân,Thân,Tử Vi,Vô Chính Diệu,Vô Chính Diệu,,Liêm Trinh,Vô Chính Diệu
+3,Tử Phủ Dần Thân,Thân,Thiên Phủ,Thất Sát,Thái Dương,,Thiên Tướng,Vũ Khúc
+3,Tử Phủ Dần Thân,Dậu,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+3,Tử Phủ Dần Thân,Dậu,Thái Âm,Thiên Đồng,Vũ Khúc,,Thiên Lương,Thái Dương
+3,Tử Phủ Dần Thân,Tuất,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+3,Tử Phủ Dần Thân,Tuất,Tham Lang,Vũ Khúc,Thiên Đồng,,Thất Sát,Phá Quân
+3,Tử Phủ Dần Thân,Hợi,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+3,Tử Phủ Dần Thân,Hợi,Cự Môn,Thái Dương,Thất Sát,,Thiên Đồng,Thiên Cơ
+4,Tử Phủ Dần Thân,Ngọ,Liêm Trinh,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Tử Vi
+4,Tử Phủ Dần Thân,Ngọ,Thiên Tướng,Phá Quân,Thiên Lương,,Vũ Khúc,Thiên Phủ
+4,Tử Phủ Dần Thân,Mùi,Vô Chính Diệu,Vô Chính Diệu,Liêm Trinh,,Vô Chính Diệu,Vô Chính Diệu
+4,Tử Phủ Dần Thân,Mùi,Thiên Lương,Thiên Cơ,Thiên Tướng,,Thái Dương,Thái Âm
+4,Tử Phủ Dần Thân,Thân,Vô Chính Diệu,Tử Vi,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+4,Tử Phủ Dần Thân,Thân,Thất Sát,Thiên Phủ,Cự Môn,,Phá Quân,Tham Lang
+4,Tử Phủ Dần Thân,Dậu,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+4,Tử Phủ Dần Thân,Dậu,Thiên Đồng,Thái Âm,Tham Lang,,Thiên Cơ,Cự Môn
+4,Tử Phủ Dần Thân,Tuất,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Tử Vi,Liêm Trinh
+4,Tử Phủ Dần Thân,Tuất,Vũ Khúc,Tham Lang,Thái Âm,,Thiên Phủ,Thiên Tướng
+4,Tử Phủ Dần Thân,Hợi,Vô Chính Diệu,Vô Chính Diệu,Tử Vi,,Vô Chính Diệu,Vô Chính Diệu
+4,Tử Phủ Dần Thân,Hợi,Thái Dương,Cự Môn,Thiên Phủ,,Thái Âm,Thiên Lương
+4,Tử Phủ Dần Thân,Tý,Vô Chính Diệu,Liêm Trinh,Vô Chính Diệu,Phá Quân|Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu
+4,Tử Phủ Dần Thân,Tý,Phá Quân,Thiên Tướng,Thiên Cơ,Phá Quân|Vô Chính Diệu,Tham Lang,Thất Sát
+4,Tử Phủ Dần Thân,Sửu,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+4,Tử Phủ Dần Thân,Sửu,Thiên Cơ,Thiên Lương,Phá Quân,,Cự Môn,Thiên Đồng
+4,Tử Phủ Dần Thân,Dần,Tử Vi,Vô Chính Diệu,Vô Chính Diệu,,Liêm Trinh,Vô Chính Diệu
+4,Tử Phủ Dần Thân,Dần,Thiên Phủ,Thất Sát,Thái Dương,,Thiên Tướng,Vũ Khúc
+4,Tử Phủ Dần Thân,Mão,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+4,Tử Phủ Dần Thân,Mão,Thái Âm,Thiên Đồng,Vũ Khúc,,Thiên Lương,Thái Dương
+4,Tử Phủ Dần Thân,Thìn,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+4,Tử Phủ Dần Thân,Thìn,Tham Lang,Vũ Khúc,Thiên Đồng,,Thất Sát,Phá Quân
+4,Tử Phủ Dần Thân,Tỵ,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+4,Tử Phủ Dần Thân,Tỵ,Cự Môn,Thái Dương,Thất Sát,,Thiên Đồng,Thiên Cơ
+5,Tử Tướng Thìn Tuất,Tý,Vô Chính Diệu,Vũ Khúc,Vô Chính Diệu,Thất Sát|Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu
+5,Tử Tướng Thìn Tuất,Tý,Thất Sát,Thiên Phủ,Vô Chính Diệu,Thất Sát|Vô Chính Diệu,Phá Quân,Tham Lang
+5,Tử Tướng Thìn Tuất,Sửu,Vô Chính Diệu,Thái Dương,Vô Chính Diệu,,Vô Chính Diệu,Thiên Cơ
+5,Tử Tướng Thìn Tuất,Sửu,Vô Chính Diệu,Thái Âm,Thất Sát,,Thiên Đồng,Cự Môn
+5,Tử Tướng Thìn Tuất,Dần,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vũ Khúc,Tử Vi
+5,Tử Tướng Thìn Tuất,Dần,Liêm Trinh,Tham Lang,Thiên Lương,,Thiên Phủ,Thiên Tướng
+5,Tử Tướng Thìn Tuất,Mão,Vô Chính Diệu,Thiên Cơ,Tử Vi,,Thái Dương,Vô Chính Diệu
+5,Tử Tướng Thìn Tuất,Mão,Vô Chính Diệu,Cự Môn,Thiên Tướng,,Thái Âm,Thiên Lương
+5,Tử Tướng Thìn Tuất,Thìn,Vô Chính Diệu,Tử Vi,Thiên Cơ,,Vô Chính Diệu,Vô Chính Diệu
+5,Tử Tướng Thìn Tuất,Thìn,Phá Quân,Thiên Tướng,Cự Môn,,Tham Lang,Thất Sát
+5,Tử Tướng Thìn Tuất,Tỵ,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Thiên Cơ,Vô Chính Diệu
+5,Tử Tướng Thìn Tuất,Tỵ,Thiên Đồng,Thiên Lương,Tham Lang,,Cự Môn,Vô Chính Diệu
+5,Tử Tướng Thìn Tuất,Ngọ,Vũ Khúc,Vô Chính Diệu,Thái Dương,,Tử Vi,Vô Chính Diệu
+5,Tử Tướng Thìn Tuất,Ngọ,Thiên Phủ,Thất Sát,Thái Âm,,Thiên Tướng,Liêm Trinh
+5,Tử Tướng Thìn Tuất,Mùi,Thái Dương,Vô Chính Diệu,Vũ Khúc,,Vô Chính Diệu,Vô Chính Diệu
+5,Tử Tướng Thìn Tuất,Mùi,Thái Âm,Vô Chính Diệu,Thiên Phủ,,Thiên Lương,Vô Chính Diệu
+5,Tử Tướng Thìn Tuất,Thân,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+5,Tử Tướng Thìn Tuất,Thân,Tham Lang,Liêm Trinh,Thiên Đồng,,Thất Sát,Phá Quân
+5,Tử Tướng Thìn Tuất,Dậu,Thiên Cơ,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+5,Tử Tướng Thìn Tuất,Dậu,Cự Môn,Vô Chính Diệu,Phá Quân,,Vô Chính Diệu,Thiên Đồng
+5,Tử Tướng Thìn Tuất,Tuất,Tử Vi,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vũ Khúc
+5,Tử Tướng Thìn Tuất,Tuất,Thiên Tướng,Phá Quân,Vô Chính Diệu,,Liêm Trinh,Thiên Phủ
+5,Tử Tướng Thìn Tuất,Hợi,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Thái Dương
+5,Tử Tướng Thìn Tuất,Hợi,Thiên Lương,Thiên Đồng,Liêm Trinh,,Vô Chính Diệu,Thái Âm
+6,Tử Tướng Thìn Tuất,Ngọ,Vô Chính Diệu,Vũ Khúc,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+6,Tử Tướng Thìn Tuất,Ngọ,Thất Sát,Thiên Phủ,Vô Chính Diệu,,Phá Quân,Tham Lang
+6,Tử Tướng Thìn Tuất,Mùi,Vô Chính Diệu,Thái Dương,Vô Chính Diệu,,Vô Chính Diệu,Thiên Cơ
+6,Tử Tướng Thìn Tuất,Mùi,Vô Chính Diệu,Thái Âm,Thất Sát,,Thiên Đồng,Cự Môn
+6,Tử Tướng Thìn Tuất,Thân,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vũ Khúc,Tử Vi
+6,Tử Tướng Thìn Tuất,Thân,Liêm Trinh,Tham Lang,Thiên Lương,,Thiên Phủ,Thiên Tướng
+6,Tử Tướng Thìn Tuất,Dậu,Vô Chính Diệu,Thiên Cơ,Tử Vi,,Thái Dương,Vô Chính Diệu
+6,Tử Tướng Thìn Tuất,Dậu,Vô Chính Diệu,Cự Môn,Thiên Tướng,,Thái Âm,Thiên Lương
+6,Tử Tướng Thìn Tuất,Tuất,Vô Chính Diệu,Tử Vi,Thiên Cơ,,Vô Chính Diệu,Vô Chính Diệu
+6,Tử Tướng Thìn Tuất,Tuất,Phá Quân,Thiên Tướng,Cự Môn,,Tham Lang,Thất Sát
+6,Tử Tướng Thìn Tuất,Hợi,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Thiên Cơ,Vô Chính Diệu
+6,Tử Tướng Thìn Tuất,Hợi,Thiên Đồng,Thiên Lương,Tham Lang,,Cự Môn,Vô Chính Diệu
+6,Tử Tướng Thìn Tuất,Tý,Vũ Khúc,Vô Chính Diệu,Thái Dương,Thiên Phủ|Vũ Khúc,Tử Vi,Vô Chính Diệu
+6,Tử Tướng Thìn Tuất,Tý,Thiên Phủ,Thất Sát,Thái Âm,Thiên Phủ|Vũ Khúc,Thiên Tướng,Liêm Trinh
+6,Tử Tướng Thìn Tuất,Sửu,Thái Dương,Vô Chính Diệu,Vũ Khúc,,Vô Chính Diệu,Vô Chính Diệu
+6,Tử Tướng Thìn Tuất,Sửu,Thái Âm,Vô Chính Diệu,Thiên Phủ,,Thiên Lương,Vô Chính Diệu
+6,Tử Tướng Thìn Tuất,Dần,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+6,Tử Tướng Thìn Tuất,Dần,Tham Lang,Liêm Trinh,Thiên Đồng,,Thất Sát,Phá Quân
+6,Tử Tướng Thìn Tuất,Mão,Thiên Cơ,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+6,Tử Tướng Thìn Tuất,Mão,Cự Môn,Vô Chính Diệu,Phá Quân,,Vô Chính Diệu,Thiên Đồng
+6,Tử Tướng Thìn Tuất,Thìn,Tử Vi,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vũ Khúc
+6,Tử Tướng Thìn Tuất,Thìn,Thiên Tướng,Phá Quân,Vô Chính Diệu,,Liêm Trinh,Thiên Phủ
+6,Tử Tướng Thìn Tuất,Tỵ,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Thái Dương
+6,Tử Tướng Thìn Tuất,Tỵ,Thiên Lương,Thiên Đồng,Liêm Trinh,,Vô Chính Diệu,Thái Âm
+7,Tử Sát Tỵ Hợi,Tý,Vô Chính Diệu,Thiên Đồng,Vô Chính Diệu,Vô Chính Diệu|Vô Chính Diệu,Vô Chính Diệu,Thái Dương
+7,Tử Sát Tỵ Hợi,Tý,Vô Chính Diệu,Thái Âm,Vô Chính Diệu,Vô Chính Diệu|Vô Chính Diệu,Vô Chính Diệu,Cự Môn
+7,Tử Sát Tỵ Hợi,Sửu,Vô Chính Diệu,Vũ Khúc,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+7,Tử Sát Tỵ Hợi,Sửu,Vô Chính Diệu,Tham Lang,Vô Chính Diệu,,Thiên Phủ,Thiên Tướng
+7,Tử Sát Tỵ Hợi,Dần,Vô Chính Diệu,Thái Dương,Tử Vi,,Thiên Đồng,Thiên Cơ
+7,Tử Sát Tỵ Hợi,Dần,Vô Chính Diệu,Cự Môn,Thất Sát,,Thái Âm,Thiên Lương
+7,Tử Sát Tỵ Hợi,Mão,Liêm Trinh,Vô Chính Diệu,Thiên Cơ,,Vũ Khúc,Tử Vi
+7,Tử Sát Tỵ Hợi,Mão,Phá Quân,Thiên Tướng,Thiên Lương,,Tham Lang,Thất Sát
+7,Tử Sát Tỵ Hợi,Thìn,Vô Chính Diệu,Thiên Cơ,Vô Chính Diệu,,Thái Dương,Vô Chính Diệu
+7,Tử Sát Tỵ Hợi,Thìn,Vô Chính Diệu,Thiên Lương,Thiên Tướng,,Cự Môn,Vô Chính Diệu
+7,Tử Sát Tỵ Hợi,Tỵ,Vô Chính Diệu,Tử Vi,Thái Dương,,Vô Chính Diệu,Vô Chính Diệu
+7,Tử Sát Tỵ Hợi,Tỵ,Thiên Phủ,Thất Sát,Cự Môn,,Thiên Tướng,Vô Chính Diệu
+7,Tử Sát Tỵ Hợi,Ngọ,Thiên Đồng,Vô Chính Diệu,Vũ Khúc,,Thiên Cơ,Vô Chính Diệu
+7,Tử Sát Tỵ Hợi,Ngọ,Thái Âm,Vô Chính Diệu,Tham Lang,,Thiên Lương,Vô Chính Diệu
+7,Tử Sát Tỵ Hợi,Mùi,Vũ Khúc,Vô Chính Diệu,Thiên Đồng,,Tử Vi,Liêm Trinh
+7,Tử Sát Tỵ Hợi,Mùi,Tham Lang,Vô Chính Diệu,Thái Âm,,Thất Sát,Phá Quân
+7,Tử Sát Tỵ Hợi,Thân,Thái Dương,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+7,Tử Sát Tỵ Hợi,Thân,Cự Môn,Vô Chính Diệu,Thiên Phủ,,Vô Chính Diệu,Vô Chính Diệu
+7,Tử Sát Tỵ Hợi,Dậu,Vô Chính Diệu,Liêm Trinh,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+7,Tử Sát Tỵ Hợi,Dậu,Thiên Tướng,Phá Quân,Vô Chính Diệu,,Vô Chính Diệu,Thiên Phủ
+7,Tử Sát Tỵ Hợi,Tuất,Thiên Cơ,Vô Chính Diệu,Liêm Trinh,,Vô Chính Diệu,Thiên Đồng
+7,Tử Sát Tỵ Hợi,Tuất,Thiên Lương,Vô Chính Diệu,Phá Quân,,Vô Chính Diệu,Thái Âm
+7,Tử Sát Tỵ Hợi,Hợi,Tử Vi,Vô Chính Diệu,Vô Chính Diệu,,Liêm Trinh,Vũ Khúc
+7,Tử Sát Tỵ Hợi,Hợi,Thất Sát,Thiên Phủ,Vô Chính Diệu,,Phá Quân,Tham Lang
+8,Tử Sát Tỵ Hợi,Ngọ,Vô Chính Diệu,Thiên Đồng,Vô Chính Diệu,,Vô Chính Diệu,Thái Dương
+8,Tử Sát Tỵ Hợi,Ngọ,Vô Chính Diệu,Thái Âm,Vô Chính Diệu,,Vô Chính Diệu,Cự Môn
+8,Tử Sát Tỵ Hợi,Mùi,Vô Chính Diệu,Vũ Khúc,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+8,Tử Sát Tỵ Hợi,Mùi,Vô Chính Diệu,Tham Lang,Vô Chính Diệu,,Thiên Phủ,Thiên Tướng
+8,Tử Sát Tỵ Hợi,Thân,Vô Chính Diệu,Thái Dương,Tử Vi,,Thiên Đồng,Thiên Cơ
+8,Tử Sát Tỵ Hợi,Thân,Vô Chính Diệu,Cự Môn,Thất Sát,,Thái Âm,Thiên Lương
+8,Tử Sát Tỵ Hợi,Dậu,Liêm Trinh,Vô Chính Diệu,Thiên Cơ,,Vũ Khúc,Tử Vi
+8,Tử Sát Tỵ Hợi,Dậu,Phá Quân,Thiên Tướng,Thiên Lương,,Tham Lang,Thất Sát
+8,Tử Sát Tỵ Hợi,Tuất,Vô Chính Diệu,Thiên Cơ,Vô Chính Diệu,,Thái Dương,Vô Chính Diệu
+8,Tử Sát Tỵ Hợi,Tuất,Vô Chính Diệu,Thiên Lương,Thiên Tướng,,Cự Môn,Vô Chính Diệu
+8,Tử Sát Tỵ Hợi,Hợi,Vô Chính Diệu,Tử Vi,Thái Dương,,Vô Chính Diệu,Vô Chính Diệu
+8,Tử Sát Tỵ Hợi,Hợi,Thiên Phủ,Thất Sát,Cự Môn,,Thiên Tướng,Vô Chính Diệu
+8,Tử Sát Tỵ Hợi,Tý,Thiên Đồng,Vô Chính Diệu,Vũ Khúc,Thái Âm|Thiên Đồng,Thiên Cơ,Vô Chính Diệu
+8,Tử Sát Tỵ Hợi,Tý,Thái Âm,Vô Chính Diệu,Tham Lang,Thái Âm|Thiên Đồng,Thiên Lương,Vô Chính Diệu
+8,Tử Sát Tỵ Hợi,Sửu,Vũ Khúc,Vô Chính Diệu,Thiên Đồng,,Tử Vi,Liêm Trinh
+8,Tử Sát Tỵ Hợi,Sửu,Tham Lang,Vô Chính Diệu,Thái Âm,,Thất Sát,Phá Quân
+8,Tử Sát Tỵ Hợi,Dần,Thái Dương,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+8,Tử Sát Tỵ Hợi,Dần,Cự Môn,Vô Chính Diệu,Thiên Phủ,,Vô Chính Diệu,Vô Chính Diệu
+8,Tử Sát Tỵ Hợi,Mão,Vô Chính Diệu,Liêm Trinh,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+8,Tử Sát Tỵ Hợi,Mão,Thiên Tướng,Phá Quân,Vô Chính Diệu,,Vô Chính Diệu,Thiên Phủ
+8,Tử Sát Tỵ Hợi,Thìn,Thiên Cơ,Vô Chính Diệu,Liêm Trinh,,Vô Chính Diệu,Thiên Đồng
+8,Tử Sát Tỵ Hợi,Thìn,Thiên Lương,Vô Chính Diệu,Phá Quân,,Vô Chính Diệu,Thái Âm
+8,Tử Sát Tỵ Hợi,Tỵ,Tử Vi,Vô Chính Diệu,Vô Chính Diệu,,Liêm Trinh,Vũ Khúc
+8,Tử Sát Tỵ Hợi,Tỵ,Thất Sát,Thiên Phủ,Vô Chính Diệu,,Phá Quân,Tham Lang
+9,Tử Phá Sửu Mùi,Tý,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,Cự Môn|Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu
+9,Tử Phá Sửu Mùi,Tý,Cự Môn,Thiên Cơ,Thiên Tướng,Cự Môn|Vô Chính Diệu,Thái Dương,Vô Chính Diệu
+9,Tử Phá Sửu Mùi,Sửu,Vô Chính Diệu,Tử Vi,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+9,Tử Phá Sửu Mùi,Sửu,Thiên Tướng,Phá Quân,Cự Môn,,Vô Chính Diệu,Thiên Phủ
+9,Tử Phá Sửu Mùi,Dần,Thiên Đồng,Vô Chính Diệu,Liêm Trinh,,Vô Chính Diệu,Vô Chính Diệu
+9,Tử Phá Sửu Mùi,Dần,Thiên Lương,Vô Chính Diệu,Tham Lang,,Thiên Cơ,Thái Âm
+9,Tử Phá Sửu Mùi,Mão,Vũ Khúc,Vô Chính Diệu,Vô Chính Diệu,,Tử Vi,Liêm Trinh
+9,Tử Phá Sửu Mùi,Mão,Thất Sát,Thiên Phủ,Thái Âm,,Phá Quân,Tham Lang
+9,Tử Phá Sửu Mùi,Thìn,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+9,Tử Phá Sửu Mùi,Thìn,Thái Dương,Thái Âm,Thiên Phủ,,Vô Chính Diệu,Cự Môn
+9,Tử Phá Sửu Mùi,Tỵ,Vô Chính Diệu,Liêm Trinh,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+9,Tử Phá Sửu Mùi,Tỵ,Vô Chính Diệu,Tham Lang,Vô Chính Diệu,,Thiên Phủ,Thiên Tướng
+9,Tử Phá Sửu Mùi,Ngọ,Vô Chính Diệu,Vô Chính Diệu,Tử Vi,,Vô Chính Diệu,Thiên Đồng
+9,Tử Phá Sửu Mùi,Ngọ,Thiên Cơ,Cự Môn,Phá Quân,,Thái Âm,Thiên Lương
+9,Tử Phá Sửu Mùi,Mùi,Tử Vi,Vô Chính Diệu,Vô Chính Diệu,,Liêm Trinh,Vũ Khúc
+9,Tử Phá Sửu Mùi,Mùi,Phá Quân,Thiên Tướng,Thiên Cơ,,Tham Lang,Thất Sát
+9,Tử Phá Sửu Mùi,Thân,Vô Chính Diệu,Thiên Đồng,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+9,Tử Phá Sửu Mùi,Thân,Vô Chính Diệu,Thiên Lương,Vô Chính Diệu,,Cự Môn,Thái Dương
+9,Tử Phá Sửu Mùi,Dậu,Vô Chính Diệu,Vũ Khúc,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+9,Tử Phá Sửu Mùi,Dậu,Thiên Phủ,Thất Sát,Thái Dương,,Thiên Tướng,Vô Chính Diệu
+9,Tử Phá Sửu Mùi,Tuất,Vô Chính Diệu,Vô Chính Diệu,Vũ Khúc,,Thiên Đồng,Vô Chính Diệu
+9,Tử Phá Sửu Mùi,Tuất,Thái Âm,Thái Dương,Thất Sát,,Thiên Lương,Thiên Cơ
+9,Tử Phá Sửu Mùi,Hợi,Liêm Trinh,Vô Chính Diệu,Thiên Đồng,,Vũ Khúc,Tử Vi
+9,Tử Phá Sửu Mùi,Hợi,Tham Lang,Vô Chính Diệu,Thiên Lương,,Thất Sát,Phá Quân
+10,Tử Phá Sửu Mùi,Ngọ,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+10,Tử Phá Sửu Mùi,Ngọ,Cự Môn,Thiên Cơ,Thiên Tướng,,Thái Dương,Vô Chính Diệu
+10,Tử Phá Sửu Mùi,Mùi,Vô Chính Diệu,Tử Vi,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+10,Tử Phá Sửu Mùi,Mùi,Thiên Tướng,Phá Quân,Cự Môn,,Vô Chính Diệu,Thiên Phủ
+10,Tử Phá Sửu Mùi,Thân,Thiên Đồng,Vô Chính Diệu,Liêm Trinh,,Vô Chính Diệu,Vô Chính Diệu
+10,Tử Phá Sửu Mùi,Thân,Thiên Lương,Vô Chính Diệu,Tham Lang,,Thiên Cơ,Thái Âm
+10,Tử Phá Sửu Mùi,Dậu,Vũ Khúc,Vô Chính Diệu,Vô Chính Diệu,,Tử Vi,Liêm Trinh
+10,Tử Phá Sửu Mùi,Dậu,Thất Sát,Thiên Phủ,Thái Âm,,Phá Quân,Tham Lang
+10,Tử Phá Sửu Mùi,Tuất,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+10,Tử Phá Sửu Mùi,Tuất,Thái Dương,Thái Âm,Thiên Phủ,,Vô Chính Diệu,Cự Môn
+10,Tử Phá Sửu Mùi,Hợi,Vô Chính Diệu,Liêm Trinh,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+10,Tử Phá Sửu Mùi,Hợi,Vô Chính Diệu,Tham Lang,Vô Chính Diệu,,Thiên Phủ,Thiên Tướng
+10,Tử Phá Sửu Mùi,Tý,Vô Chính Diệu,Vô Chính Diệu,Tử Vi,Thiên Cơ|Vô Chính Diệu,Vô Chính Diệu,Thiên Đồng
+10,Tử Phá Sửu Mùi,Tý,Thiên Cơ,Cự Môn,Phá Quân,Thiên Cơ|Vô Chính Diệu,Thái Âm,Thiên Lương
+10,Tử Phá Sửu Mùi,Sửu,Tử Vi,Vô Chính Diệu,Vô Chính Diệu,,Liêm Trinh,Vũ Khúc
+10,Tử Phá Sửu Mùi,Sửu,Phá Quân,Thiên Tướng,Thiên Cơ,,Tham Lang,Thất Sát
+10,Tử Phá Sửu Mùi,Dần,Vô Chính Diệu,Thiên Đồng,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+10,Tử Phá Sửu Mùi,Dần,Vô Chính Diệu,Thiên Lương,Vô Chính Diệu,,Cự Môn,Thái Dương
+10,Tử Phá Sửu Mùi,Mão,Vô Chính Diệu,Vũ Khúc,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+10,Tử Phá Sửu Mùi,Mão,Thiên Phủ,Thất Sát,Thái Dương,,Thiên Tướng,Vô Chính Diệu
+10,Tử Phá Sửu Mùi,Thìn,Vô Chính Diệu,Vô Chính Diệu,Vũ Khúc,,Thiên Đồng,Vô Chính Diệu
+10,Tử Phá Sửu Mùi,Thìn,Thái Âm,Thái Dương,Thất Sát,,Thiên Lương,Thiên Cơ
+10,Tử Phá Sửu Mùi,Tỵ,Liêm Trinh,Vô Chính Diệu,Thiên Đồng,,Vũ Khúc,Tử Vi
+10,Tử Phá Sửu Mùi,Tỵ,Tham Lang,Vô Chính Diệu,Thiên Lương,,Thất Sát,Phá Quân
+11,Tử Tham Mão Dậu,Tý,Vô Chính Diệu,Vô Chính Diệu,Liêm Trinh,Thiên Lương|Vô Chính Diệu,Vô Chính Diệu,Thiên Cơ
+11,Tử Tham Mão Dậu,Tý,Thiên Lương,Thái Dương,Thất Sát,Thiên Lương|Vô Chính Diệu,Thiên Đồng,Thái Âm
+11,Tử Tham Mão Dậu,Sửu,Liêm Trinh,Vô Chính Diệu,Vô Chính Diệu,,Vũ Khúc,Tử Vi
+11,Tử Tham Mão Dậu,Sửu,Thất Sát,Thiên Phủ,Thiên Lương,,Phá Quân,Tham Lang
+11,Tử Tham Mão Dậu,Dần,Vô Chính Diệu,Thiên Cơ,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+11,Tử Tham Mão Dậu,Dần,Vô Chính Diệu,Thái Âm,Thiên Tướng,,Thái Dương,Cự Môn
+11,Tử Tham Mão Dậu,Mão,Vô Chính Diệu,Tử Vi,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+11,Tử Tham Mão Dậu,Mão,Vô Chính Diệu,Tham Lang,Cự Môn,,Thiên Phủ,Thiên Tướng
+11,Tử Tham Mão Dậu,Thìn,Vô Chính Diệu,Vô Chính Diệu,Tử Vi,,Thiên Cơ,Vô Chính Diệu
+11,Tử Tham Mão Dậu,Thìn,Thiên Đồng,Cự Môn,Tham Lang,,Thái Âm,Thiên Lương
+11,Tử Tham Mão Dậu,Tỵ,Vũ Khúc,Vô Chính Diệu,Thiên Cơ,,Tử Vi,Liêm Trinh
+11,Tử Tham Mão Dậu,Tỵ,Phá Quân,Thiên Tướng,Thái Âm,,Tham Lang,Thất Sát
+11,Tử Tham Mão Dậu,Ngọ,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+11,Tử Tham Mão Dậu,Ngọ,Thái Dương,Thiên Lương,Thiên Phủ,,Cự Môn,Vô Chính Diệu
+11,Tử Tham Mão Dậu,Mùi,Vô Chính Diệu,Liêm Trinh,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+11,Tử Tham Mão Dậu,Mùi,Thiên Phủ,Thất Sát,Thái Dương,,Thiên Tướng,Vô Chính Diệu
+11,Tử Tham Mão Dậu,Thân,Thiên Cơ,Vô Chính Diệu,Vũ Khúc,,Vô Chính Diệu,Vô Chính Diệu
+11,Tử Tham Mão Dậu,Thân,Thái Âm,Vô Chính Diệu,Phá Quân,,Thiên Lương,Thiên Đồng
+11,Tử Tham Mão Dậu,Dậu,Tử Vi,Vô Chính Diệu,Vô Chính Diệu,,Liêm Trinh,Vũ Khúc
+11,Tử Tham Mão Dậu,Dậu,Tham Lang,Vô Chính Diệu,Thiên Đồng,,Thất Sát,Phá Quân
+11,Tử Tham Mão Dậu,Tuất,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+11,Tử Tham Mão Dậu,Tuất,Cự Môn,Thiên Đồng,Vô Chính Diệu,,Vô Chính Diệu,Thái Dương
+11,Tử Tham Mão Dậu,Hợi,Vô Chính Diệu,Vũ Khúc,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+11,Tử Tham Mão Dậu,Hợi,Thiên Tướng,Phá Quân,Vô Chính Diệu,,Vô Chính Diệu,Thiên Phủ
+12,Tử Tham Mão Dậu,Ngọ,Vô Chính Diệu,Vô Chính Diệu,Liêm Trinh,,Vô Chính Diệu,Thiên Cơ
+12,Tử Tham Mão Dậu,Ngọ,Thiên Lương,Thái Dương,Thất Sát,,Thiên Đồng,Thái Âm
+12,Tử Tham Mão Dậu,Mùi,Liêm Trinh,Vô Chính Diệu,Vô Chính Diệu,,Vũ Khúc,Tử Vi
+12,Tử Tham Mão Dậu,Mùi,Thất Sát,Thiên Phủ,Thiên Lương,,Phá Quân,Tham Lang
+12,Tử Tham Mão Dậu,Thân,Vô Chính Diệu,Thiên Cơ,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+12,Tử Tham Mão Dậu,Thân,Vô Chính Diệu,Thái Âm,Thiên Tướng,,Thái Dương,Cự Môn
+12,Tử Tham Mão Dậu,Dậu,Vô Chính Diệu,Tử Vi,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+12,Tử Tham Mão Dậu,Dậu,Vô Chính Diệu,Tham Lang,Cự Môn,,Thiên Phủ,Thiên Tướng
+12,Tử Tham Mão Dậu,Tuất,Vô Chính Diệu,Vô Chính Diệu,Tử Vi,,Thiên Cơ,Vô Chính Diệu
+12,Tử Tham Mão Dậu,Tuất,Thiên Đồng,Cự Môn,Tham Lang,,Thái Âm,Thiên Lương
+12,Tử Tham Mão Dậu,Hợi,Vũ Khúc,Vô Chính Diệu,Thiên Cơ,,Tử Vi,Liêm Trinh
+12,Tử Tham Mão Dậu,Hợi,Phá Quân,Thiên Tướng,Thái Âm,,Tham Lang,Thất Sát
+12,Tử Tham Mão Dậu,Tý,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,Thái Dương|Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu
+12,Tử Tham Mão Dậu,Tý,Thái Dương,Thiên Lương,Thiên Phủ,Thái Dương|Vô Chính Diệu,Cự Môn,Vô Chính Diệu
+12,Tử Tham Mão Dậu,Sửu,Vô Chính Diệu,Liêm Trinh,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+12,Tử Tham Mão Dậu,Sửu,Thiên Phủ,Thất Sát,Thái Dương,,Thiên Tướng,Vô Chính Diệu
+12,Tử Tham Mão Dậu,Dần,Thiên Cơ,Vô Chính Diệu,Vũ Khúc,,Vô Chính Diệu,Vô Chính Diệu
+12,Tử Tham Mão Dậu,Dần,Thái Âm,Vô Chính Diệu,Phá Quân,,Thiên Lương,Thiên Đồng
+12,Tử Tham Mão Dậu,Mão,Tử Vi,Vô Chính Diệu,Vô Chính Diệu,,Liêm Trinh,Vũ Khúc
+12,Tử Tham Mão Dậu,Mão,Tham Lang,Vô Chính Diệu,Thiên Đồng,,Thất Sát,Phá Quân
+12,Tử Tham Mão Dậu,Thìn,Vô Chính Diệu,Vô Chính Diệu,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+12,Tử Tham Mão Dậu,Thìn,Cự Môn,Thiên Đồng,Vô Chính Diệu,,Vô Chính Diệu,Thái Dương
+12,Tử Tham Mão Dậu,Tỵ,Vô Chính Diệu,Vũ Khúc,Vô Chính Diệu,,Vô Chính Diệu,Vô Chính Diệu
+12,Tử Tham Mão Dậu,Tỵ,Thiên Tướng,Phá Quân,Vô Chính Diệu,,Vô Chính Diệu,Thiên Phủ

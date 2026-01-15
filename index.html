@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Tử Vi - Tứ Hóa theo ngày (Tiết khí)</title>
+  <link rel="stylesheet" href="./styles.css" />
+  <link rel="stylesheet" href="./addon_star_modal.css" />
+  <link rel="stylesheet" href="./addon_can_table.css" />
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>Web xem Tứ Hóa theo ngày (tiết khí)</h1>
+
+    <!-- STEP 1 -->
+    <section class="card">
+      <h2>Bước 1 — Nhập 2 chính tinh tại cung Tý</h2>
+      <div class="row">
+        <div>
+          <label>Chính tinh 1 (Tý)</label>
+          <select id="tyStar1"></select>
+        </div>
+        <div>
+          <label>Chính tinh 2 (Tý)</label>
+          <select id="tyStar2"></select>
+        </div>
+      </div>
+
+      <button id="btnFindGroup">Xác định GroupID</button>
+      <div id="groupResult" class="result"></div>
+    </section>
+
+    <!-- STEP 2 -->
+    <section class="card" id="step2" style="display:none;">
+      <h2>Bước 2 — Nhập cung địa chi của 4 sao (có thể trùng cung)</h2>
+      <p class="note">Bắt buộc nhập đủ 4 sao. Có thể trùng cung.</p>
+
+      <div class="grid2">
+        <div>
+          <label>Tả Phù ở cung</label>
+          <select id="posTaPhu"></select>
+        </div>
+        <div>
+          <label>Hữu Bật ở cung</label>
+          <select id="posHuuBat"></select>
+        </div>
+        <div>
+          <label>Văn Xương ở cung</label>
+          <select id="posVanXuong"></select>
+        </div>
+        <div>
+          <label>Văn Khúc ở cung</label>
+          <select id="posVanKhuc"></select>
+        </div>
+      </div>
+
+      <button id="btnGoStep3">Tiếp tục</button>
+      <div id="step2Error" class="error"></div>
+    </section>
+
+    <!-- STEP 3 -->
+    <section class="card" id="step3" style="display:none;">
+      <h2>Bước 3 — Chọn ngày + timezone + mốc tháng tại cung Tý</h2>
+
+      <div class="row">
+        <div>
+          <label>Ngày dương lịch</label>
+          <input id="dateInput" type="date" />
+        </div>
+
+        <div>
+          <label>Timezone (theo file tiết khí)</label>
+          <select id="tzSelect"></select>
+        </div>
+      </div>
+
+      <div style="margin-top:10px;">
+        <label>Can-Chi tháng tiết khí tại cung Tý (mốc xoay 12 cung)</label>
+        <select id="tySolarMonthSelect"></select>
+        <div class="note">Danh sách tự sinh theo Can năm của ngày bạn chọn (12 tháng: Dần → ... → Sửu).</div>
+      </div>
+
+      <button id="btnCompute">Xem Tứ Hóa theo ngày</button>
+      <div id="hoaSummary" class="result"></div>
+    </section>
+
+    <!-- OUTPUT -->
+    <section class="card" id="output" style="display:none;">
+      <h2>Lá số 12 cung</h2>
+
+      <!-- BẢNG THỐNG KÊ -->
+      <div id="stats" class="stats"></div>
+
+      <div id="chart" class="chart"></div>
+    </section>
+  </div>
+
+  <script src="./app.js"></script>
+  <script src="./addon_star_modal.js"></script>
+  <script src="./addon_can_table.js"></script>
+<!-- ===== ADD-ON: MODAL GIẢI NGHĨA SAO (CLICK SAO TRONG Ô) ===== -->
+  <div id="starModal" class="hidden" aria-hidden="true">
+    <div class="modal-backdrop" id="modalClose"></div>
+
+    <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <div class="modal-header">
+        <div id="modalTitle" class="modal-title">Chi tiết sao</div>
+        <button id="modalX" class="modal-x" type="button" aria-label="Đóng">✕</button>
+      </div>
+      <div id="modalBody" class="modal-body"></div>
+    </div>
+  </div>
+
+</body>
+</html>
